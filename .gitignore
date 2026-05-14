@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+downloads/
+vector_db/
+.streamlit/
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+*.log
